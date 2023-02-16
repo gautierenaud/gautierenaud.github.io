@@ -8,3 +8,9 @@ This is the repo containing the content of my digital garden. The deployed versi
 cd themes/PaperMod
 git pull
 ```
+
+# Local tests
+
+```bash
+hugo serve .
+```

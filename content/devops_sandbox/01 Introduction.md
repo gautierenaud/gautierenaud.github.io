@@ -1,13 +1,16 @@
 ---
 title: 01 Introduction
-fileName: 
+fileName: 01 Introduction
 tags:
 - DevOps
 categories:
 date: 2023-01-24
-lastMod: 2023-01-24
+lastMod: 2023-02-16
+ShowPostNavLinks: true
+ShowBreadCrumbs: true
+ShowReadingTime: true
 ---
-Hi, this is my personal sandbox project, where I'll try to learn about different part that I attribute (maybe wrongly) to DevOps. I'm more of a Dev than an Ops, so I wanted some time/playground to learn a bit more about the concepts that are dealt with on the Ops side.
+Hi, this is my personal sandbox project, where I'll try to learn about different part that I attribute (perhaps wrongly) to DevOps. I'm more of a Dev than an Ops, so I wanted some time/playground to learn a bit more about the concepts that are dealt with on the Ops side.
 
 The idea would be to learn about (thrown in random order, not exhaustive nor contractual):
 * observability
